@@ -1,0 +1,14 @@
+{
+  "apiEndpoint": "https://ss1.xrea.com/szzqaqqw2ljut.s330.xrea.com/aeb/api.php",
+  "cardDataBase": "https://aiktdb.github.io/card-data",
+  "works": [
+    { "work": "アイカツ！アンコール", "qrShared": true },
+    { "work": "アイカツ！", "qrShared": true },
+    { "work": "アイカツスターズ！", "qrShared": false },
+    { "work": "アイカツフレンズ！", "qrShared": false },
+    { "work": "アイカツオンパレード！", "qrShared": false }
+  ],
+  "rescueFormUrl": "",
+  "checkIntervalMinutes": 5,
+  "pushDelaySeconds": 5
+}
